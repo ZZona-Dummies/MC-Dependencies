@@ -1,0 +1,1 @@
+https://bmwieczorek.wordpress.com/2008/10/01/wget-recursively-download-all-files-from-certain-directory-listed-by-apache/ !!!! wget -r -np -nH –cut-dirs=3 -R index.html http://hostname/aaa/bbb/ccc/ddd/
