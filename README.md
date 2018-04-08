@@ -1,3 +1,11 @@
+Comando WGET
+============
+
+https://bmwieczorek.wordpress.com/2008/10/01/wget-recursively-download-all-files-from-certain-directory-listed-by-apache/ !!!! wget -r -np -nH –cut-dirs=3 -R index.html http://store.ttyh.ru/libraries/
+
+URLS
+====
+
 Windows
 
 lwjgl: https://build.lwjgl.org/release/latest/windows/x86/lwjgl32.dll -> lwjgl.dll
