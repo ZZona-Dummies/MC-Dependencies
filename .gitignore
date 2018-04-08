@@ -6,3 +6,5 @@ classes
 build
 /jinput
 *.tmp
+*.sha1
+optifine/
